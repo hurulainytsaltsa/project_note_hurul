@@ -6,6 +6,7 @@ import 'package:project_note/screen_page/page_add_note.dart';
 import 'package:project_note/screen_page/page_detail_note.dart';
 import 'package:project_note/screen_page/page_edit_note.dart';
 
+
 class PageUtama extends StatefulWidget {
   const PageUtama({Key? key}) : super(key: key);
 

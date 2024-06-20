@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+
 class PageDetailNotes extends StatelessWidget {
   final String judul;
   final String isi;

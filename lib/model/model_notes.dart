@@ -6,6 +6,7 @@ import 'dart:convert';
 
 ModelNotes modelNotesFromJson(String str) => ModelNotes.fromJson(json.decode(str));
 
+
 String modelNotesToJson(ModelNotes data) => json.encode(data.toJson());
 
 class ModelNotes {
